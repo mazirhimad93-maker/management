@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract dark cinematic background",
+      "imageUrl": "https://picsum.photos/seed/hero-dark-99/1920/1080",
+      "imageHint": "cinematic dark"
+    },
+    {
+      "id": "high-ticket",
+      "description": "High-ticket offer strategy",
+      "imageUrl": "https://i.ibb.co/pBS3XCy1/Chat-GPT-Image-Feb-10-2026-10-43-20-PM.png",
+      "imageHint": "premium mastermind"
+    },
+    {
+      "id": "ecommerce",
+      "description": "E-commerce and physical product scaling",
+      "imageUrl": "https://i.ibb.co/cXwwkDfR/Chat-GPT-Image-Feb-10-2026-10-42-51-PM.png",
+      "imageHint": "luxury warehouse"
+    },
+    {
+      "id": "partnerships",
+      "description": "Strategic brand partnerships",
+      "imageUrl": "https://i.ibb.co/fVPz33Kk/Chat-GPT-Image-Feb-10-2026-10-42-09-PM.png",
+      "imageHint": "executive handshake"
+    },
+    {
+      "id": "backend",
+      "description": "Automated business systems",
+      "imageUrl": "https://i.ibb.co/v4tx8qKR/b43eeab5-f2cd-4513-acf5-15221b2e4039.png",
+      "imageHint": "tech infrastructure"
+    },
+    {
+      "id": "mcgregor-fast",
+      "description": "McGregor Fast brand image",
+      "imageUrl": "https://i.ibb.co/LzPqPD3n/Chat-GPT-Image-Feb-11-2026-12-23-23-AM.png",
+      "imageHint": "boxing gym"
+    },
+    {
+      "id": "jason-kalambay",
+      "description": "Jason Kalambay brand image",
+      "imageUrl": "https://i.ibb.co/pr9Gnsgx/Chat-GPT-Image-Feb-11-2026-12-22-17-AM.png",
+      "imageHint": "fitness coach"
+    },
+    {
+      "id": "daniel-brea",
+      "description": "Daniel Brea cinematic set",
+      "imageUrl": "https://i.ibb.co/rRngdpSw/cfa43db1-e9fd-4403-a2e1-63731ade1ebf.png",
+      "imageHint": "cinematic set"
+    },
+    {
+      "id": "mindvalley",
+      "description": "Mindvalley branding",
+      "imageUrl": "https://i.ibb.co/YFcsR1cr/d091a1d7-d880-40de-be2f-861426993163.png",
+      "imageHint": "purple branding"
+    }
+  ]
+}
